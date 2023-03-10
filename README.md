@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
+ * :bust_in_silhouette:   SERGIO VILAR PEREZ :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
 ----- 
